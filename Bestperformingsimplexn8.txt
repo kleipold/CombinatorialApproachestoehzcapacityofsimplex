@@ -4,7 +4,7 @@ n = 8
 ========================================================================
 dimension                    = 16
 final_gradient_pool_solutions= 250000
-ehz_capacity.                = 6.255033625876e-02
+ehz_capacity                 = 6.255033625876e-02
 2n_times_capacity            = -2.001610760280e+00
 systolic_ratio               = 7.684525083029e-01
 det(Q_refined)               = 1.0000000000229194e+00

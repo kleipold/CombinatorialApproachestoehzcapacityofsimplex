@@ -1,15 +1,11 @@
-# Refined minimum from embedded starting point
+
 
 ========================================================================
 n = 6
 ========================================================================
 dimension                    = 12
-iterations_used              = 2
-refine_pool_solutions        = 5000
 final_gradient_pool_solutions= 200000
-start_cost                   = -1.692556027078e-01
-refined_cost                 = -1.692556042294e-01
-refined_cost_div2            = -8.462780211469e-02
+ehz_capacity                 = -8.462780211469e-02
 2n_times_capacity            = -2.031067250753e+00
 systolic_ratio               = 7.907037645481e-01
 det(Q_refined)               = 1.0000000000092240e+00
